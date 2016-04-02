@@ -1,3 +1,3 @@
 # webapp
-My web application
+My web application.
 Main idea - simple blog/news site
