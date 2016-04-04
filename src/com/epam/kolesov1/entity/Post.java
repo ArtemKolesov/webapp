@@ -52,4 +52,9 @@ public class Post {
 		this.postDate = postDate;
 	}
 
+	@Override
+	public String toString() {
+		return "Post [id=" + id + ", title=" + title + ", content=" + content + ", postDate=" + postDate + "]";
+	}
+
 }
